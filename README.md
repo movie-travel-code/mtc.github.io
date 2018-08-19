@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+## Wang LiuShuai (Henry Wong)
 
-You can use the [editor on GitHub](https://github.com/movie-travel-code/mtc.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### About Me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a Code Safe Engineer at `360 Enterprise Security Group`. My main interest are as follows:
 
-### Markdown
+ - Static Program Analysis
+ - Compiler
+ - C/C++
+ - Or any technical towards to improve the program
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+However I am still a newbee about program analysis :).
+### Skills
+#### Static Program Analysis
+I am familiar with [Clang Static Analyzer][1], I have 21 patchs accepted by the LLVM community so far. This is my patch list, [MTC (Henry Wong)][2].
 
-```markdown
-Syntax highlighted code block
+I have solid knowledge about dataflow analysis and familiar with symbolic execution. I know pointer analysis and type analysis, nevertheless I am not good it.
 
-# Header 1
-## Header 2
-### Header 3
+With regard to static analysis, I have too much to learn.
 
-- Bulleted
-- List
+#### Compiler
+I am familiar with compiler frontend and know about compiler backend. I have a homework compiler moese, it is based on swift and LLVM IR. So far, it has only been generated to SSA form and has no optimization.
 
-1. Numbered
-2. List
+With regard to compiler, I have too much to learn too.
 
-**Bold** and _Italic_ and `Code` text
+#### Programming Language
+I am familiar with C/C++ and know python.
 
-[Link](url) and ![Image](src)
-```
+#### English
+I have passed CET-4 and CET-6. However I am not so good at English writing and English speaking. As you can see, this page is written by immature English。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Education
 
-### Jekyll Themes
+[`University of Electronic Science and Technology`][3] *Master of Computer Software and Theory* 2014.09 - 2017.06
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/movie-travel-code/mtc.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[`University of Electronic Science and Technology`][3] *Bachelor of Computer Science and Technology* 2010.09 - 2014.06
 
-### Support or Contact
+### Hobby
+I love travelling and had two long journeys.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ - I once cycled along [China National Highway 318][4] from ChendDu to Lhasa in 2012.07
+ - I once tried to travel on [Trans-Siberian Railway][5], but for various reasons, my trip stopped at Lake Baikal. Yea, this is a pity in my life.
+
+[1]: https://clang-analyzer.llvm.org/
+[2]: https://reviews.llvm.org/people/revisions/16484/
+[3]: http://en.uestc.edu.cn/
+[4]: https://en.wikipedia.org/wiki/China_National_Highway_318
+[5]: https://en.wikipedia.org/wiki/Trans-Siberian_Railway

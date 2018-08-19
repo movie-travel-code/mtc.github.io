@@ -1,7 +1,7 @@
 ## Wang LiuShuai (Henry Wong)
 
 ### About Me
-~[Henry Wong](https://github.com/movie-travel-code/mtc.github.io/blob/master/pictures/henrywong.jpg)
+![Henry Wong](https://github.com/movie-travel-code/mtc.github.io/blob/master/pictures/henrywong.jpg)
 
 I am a Code Safe Engineer at `360 Enterprise Security Group`. My main interest are as follows:
 

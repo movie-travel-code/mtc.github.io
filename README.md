@@ -1,6 +1,7 @@
 ## Wang LiuShuai (Henry Wong)
 
 ### About Me
+~[Henry Wong](https://github.com/movie-travel-code/mtc.github.io/blob/master/pictures/henrywong.jpg)
 
 I am a Code Safe Engineer at `360 Enterprise Security Group`. My main interest are as follows:
 
@@ -19,7 +20,7 @@ I have solid knowledge about dataflow analysis and familiar with symbolic execut
 With regard to static analysis, I have too much to learn.
 
 #### Compiler
-I am familiar with compiler frontend and know about compiler backend. I have a homework compiler moese, it is based on swift and LLVM IR. So far, it has only been generated to SSA form and has no optimization.
+I am familiar with compiler frontend and know about compiler backend. I have a homework compiler [moses][6], it is based on swift and LLVM IR. So far, it has only been generated to SSA form and has no optimization.
 
 With regard to compiler, I have too much to learn too.
 
@@ -46,3 +47,4 @@ I love travelling and had two long journeys.
 [3]: http://en.uestc.edu.cn/
 [4]: https://en.wikipedia.org/wiki/China_National_Highway_318
 [5]: https://en.wikipedia.org/wiki/Trans-Siberian_Railway
+[6]: https://github.com/movie-travel-code/moses

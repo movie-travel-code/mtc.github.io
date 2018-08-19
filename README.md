@@ -1,4 +1,4 @@
-## Wang LiuShuai (Henry Wong)
+## Wang LiuShuai (Henry Wong)
 
 ### About Me
 
@@ -19,7 +19,7 @@ I have solid knowledge about dataflow analysis and familiar with symbolic execut
 With regard to static analysis, I have too much to learn.
 
 #### Compiler
-I am familiar with compiler frontend and know about compiler backend. I have a homework compiler moese, it is based on swift and LLVM IR. So far, it has only been generated to SSA form and has no optimization.
+I am familiar with compiler frontend and know about compiler backend. I have a homework compiler moese, it is based on swift and LLVM IR. So far, it has only been generated to SSA form and has no optimization.
 
 With regard to compiler, I have too much to learn too.
 
